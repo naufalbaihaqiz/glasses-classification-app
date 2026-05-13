@@ -50,8 +50,4 @@ Model dilatih menggunakan Google Colab dengan dataset:
 - **Fine Tuning:** 30 layer terakhir MobileNetV2
 
 **note : model masih belum sempurna karena dataset yang sangat sedikit**
-
-## 👤 Author
-
-**naufalbaihaqiz**  
-[GitHub](https://github.com/naufalbaihaqiz)
+https://glasses-classification-app.streamlit.app/
